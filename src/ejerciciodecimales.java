@@ -5,6 +5,7 @@ class ejerciciosdecimales {
         float c = a + b;
 
         System.out.println(c);
+        System.out.println("Hemos terminado esta prueba");
 
 
     }
